@@ -14,9 +14,9 @@
 
 - &ensp; Python [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" />][python]<br><br />
 
-- &ensp; Django [<img align="left" alt="Django" width="26px" src="https://www.twilio.com/marketing/bundles/company-brand/img/logos/red/twilio-logo-red.png" />][twilio] <br><br />
+- &ensp; Django [<img align="left" alt="Django" width="26px" src="https://www.django.com/marketing/bundles/company-brand/img/logos/red/django-logo-red.png" />][django] <br><br />
 
-- &ensp; React [<img align="left" alt="React" width="26px" src="https://strattonapps.com/wp-content/uploads/2020/02/flutter-logo-5086DD11C5-seeklogo.com_.png" />][flutter]
+- &ensp; React [<img align="left" alt="React" width="26px" src="https://react.com/wp-content/uploads/2020/02/react-logo-5086DD11C5-seeklogo.com_.png" />][react]
 
 <br />
 
@@ -26,7 +26,7 @@
 
 
 [pytorch]: https://pytorch.org/
-[twilio]: https://www.django.com/
+[django]: https://www.django.com/
 [python]: https://www.python.org
 [powerbi]: https://powerbi.microsoft.com/en-us/
-[flutter]: https://react.dev
+[react]: https://react.dev
