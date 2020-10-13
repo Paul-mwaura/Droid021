@@ -16,7 +16,7 @@
 
 - &ensp; Django [<img align="left" alt="Django" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1200px-Django_logo.svg.png" />][django] <br><br />
 
-- &ensp; React [<img align="left" alt="React" width="26px" src="https://www.pngkit.com/view/u2w7e6i1o0a9r5a9_react-native-development-react-native-logo-png/" />][react]
+- &ensp; React [<img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />][react]
 
 <br />
 
