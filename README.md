@@ -1,9 +1,9 @@
-### Hi there, I'm Vince 👋
+### Hi there, I'm Paul 👋
 
-## I'm a Deep learning practitoner, hobbyist & researcher!
+## I'm a Deep learning practitoner, data analyst & researcher!
 - 🔭 Currently building and deploying models on edge devices
-- 💬 How to reach me: vincivenv@gmail.com, @darctrac3 on twitter
-- 🤔 Ask me about Deep learning, Pytorch, React, Flutter or any tech related stuff
+- 💬 How to reach me: paulmwaura254@gmail.com
+- 🤔 Ask me about Deep learning, Pytorch, React, Django or any tech related stuff
 
 <br />
 
@@ -14,19 +14,19 @@
 
 - &ensp; Python [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" />][python]<br><br />
 
-- &ensp; Twilio [<img align="left" alt="Twilio" width="26px" src="https://www.twilio.com/marketing/bundles/company-brand/img/logos/red/twilio-logo-red.png" />][twilio] <br><br />
+- &ensp; Django [<img align="left" alt="Django" width="26px" src="https://www.twilio.com/marketing/bundles/company-brand/img/logos/red/twilio-logo-red.png" />][twilio] <br><br />
 
-- &ensp; Flutter [<img align="left" alt="Flutter" width="26px" src="https://strattonapps.com/wp-content/uploads/2020/02/flutter-logo-5086DD11C5-seeklogo.com_.png" />][flutter]
+- &ensp; React [<img align="left" alt="React" width="26px" src="https://strattonapps.com/wp-content/uploads/2020/02/flutter-logo-5086DD11C5-seeklogo.com_.png" />][flutter]
 
 <br />
 
 ---
 
-<img align="left" alt="Vince's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Droid021&show_icons=true&hide_border=true&hide=contribs&count_private=true&include_all_commits=false" />
+<img align="left" alt="Paul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=paul-mwaura&show_icons=true&hide_border=true&hide=contribs&count_private=true&include_all_commits=false" />
 
 
 [pytorch]: https://pytorch.org/
-[twilio]: https://www.twilio.com/
+[twilio]: https://www.django.com/
 [python]: https://www.python.org
 [powerbi]: https://powerbi.microsoft.com/en-us/
-[flutter]: https://flutter.dev
+[flutter]: https://react.dev
